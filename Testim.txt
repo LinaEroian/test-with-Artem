@@ -7,3 +7,4 @@ Commitim
 123
 Delete line
 new branch line
+New line for git GUI
